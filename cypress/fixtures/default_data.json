@@ -1,0 +1,8 @@
+{
+  "default_password": "12345",
+  "default_user": {
+    "name": "pgats_teste",
+    "email": "pgats_teste@email.com"
+  }
+
+}
