@@ -22,7 +22,7 @@ jobs:
         with:
           name: relatorios
           path: |
-                cypress/reports
-                cypress/screenshots
-                cypress/videos
+            cypress/reports
+            cypress/screenshots
+            cypress/videos
     
